@@ -44,12 +44,10 @@ The Weather Prediction App is a user-friendly application that predicts the temp
    ```bash
    git clone https://github.com/ArmandoSaboia/weather_prediction_app.git
    cd weather_prediction_app
-Weather Prediction App
 
-Install the required packages using pip:
-bash
-Copy code
-pip install -r requirements.txt
+2. Install the required packages using pip:
+   ```bash 
+   pip install -r requirements.txt
 
 ## Usage
 
@@ -66,8 +64,7 @@ Save the app.py file.
 
 Run the Dash app using the Waitress server:
 
-bash
-Copy code
+```bash
 python server.py
 
 Open your web browser and navigate to http://127.0.0.1:8050/ to access the app.
