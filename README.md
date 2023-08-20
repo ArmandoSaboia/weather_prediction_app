@@ -25,7 +25,7 @@ The Weather Prediction App is a user-friendly application that predicts the temp
 
 ## Features
 
-1. Predicts tomorrow's temperature using historical weather data
+1. Predicts tomorrow's temperature using historical weather data fetched from the OpenWeatherMap API
 2. Automated model selection and training using PyCaret
 3. User-friendly interface built with the Dash framework
 
