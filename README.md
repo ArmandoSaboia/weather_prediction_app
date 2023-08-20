@@ -43,7 +43,7 @@ The Weather Prediction App is a user-friendly application that predicts the temp
 1. Clone the repository:
    ```bash
    git clone https://github.com/ArmandoSaboia/weather_prediction_app.git
-   cd Weather-Prediction-App
+   cd weather_prediction_app
 Weather Prediction App
 
 Install the required packages using pip:
