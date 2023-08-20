@@ -53,7 +53,7 @@ The Weather Prediction App is a user-friendly application that predicts the temp
 
 ### Running the App
 
-1. Open the `app.py` file in a text editor.
+1. Open the `weather.py` file in a text editor.
 
 2. Replace the following placeholders with your actual values:
    - `[API Key]`: Replace this with your OpenWeatherMap API key.
@@ -61,7 +61,7 @@ The Weather Prediction App is a user-friendly application that predicts the temp
    - `[start_date]`: Replace this with the start date for fetching historical weather data.
    - `[end_date]`: Replace this with the end date for fetching historical weather data.
 
-3. Save the `app.py` file.
+3. Save the `weather.py` file.
 
 4. Run the Dash app using the Waitress server:
    ```bash
