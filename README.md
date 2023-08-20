@@ -67,18 +67,18 @@ The Weather Prediction App is a user-friendly application that predicts the temp
    ```bash
    python server.py
 
-Open your web browser and navigate to http://127.0.0.1:8050/ to access the app.
+5. Open your web browser and navigate to http://127.0.0.1:8050/ to access the app.
 
-Enter your OpenWeatherMap API key and city name in the respective input fields.
+6. Enter your OpenWeatherMap API key and city name in the respective input fields.
 
-Click the "Predict Tomorrow's Temperature" button to see the prediction.
+7. Click the "Predict Tomorrow's Temperature" button to see the prediction.
 
 ## Screenshots
-Screenshot 1
-Screenshot 2
+- Screenshot 1
+- Screenshot 2
 
 ## Contributing
 Contributions are welcome! Feel free to open issues and submit pull requests.
 
 ## License
-This project is licensed under the MIT License - see the LICENSE(https://github.com/ArmandoSaboia/weather_prediction_app/blob/main/LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/ArmandoSaboia/weather_prediction_app/blob/main/LICENSE) file for details.
