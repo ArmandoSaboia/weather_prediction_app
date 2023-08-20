@@ -81,4 +81,4 @@ Screenshot 2
 Contributions are welcome! Feel free to open issues and submit pull requests.
 
 ## License
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License - see the LICENSE(https://github.com/ArmandoSaboia/weather_prediction_app/blob/main/LICENSE) file for details.
