@@ -4,6 +4,47 @@
 ![GitHub pull requests](https://img.shields.io/github/issues-pr/ArmandoSaboia/weather_prediction_app)
 ![GitHub contributors](https://img.shields.io/github/contributors/ArmandoSaboia/weather_prediction_app)
 
+# Weather Prediction App
+
+![Weather Prediction App](weather.jpg)
+
+## Description
+
+The Weather Prediction App is a user-friendly application that predicts the temperature for the next day based on historical weather data. The app integrates the PyCaret library for automated machine learning and uses the Dash framework to provide an interactive user interface. This README provides details on setting up and running the app.
+
+## Table of Contents
+
+- [Features](#features)
+- [Getting Started](#getting-started)
+  - [Prerequisites](#prerequisites)
+  - [Installation](#installation)
+- [Usage](#usage)
+  - [Running the App](#running-the-app)
+- [Screenshots](#screenshots)
+- [Contributing](#contributing)
+- [License](#license)
+
+## Features
+
+1. Predicts tomorrow's temperature using historical weather data
+2. Automated model selection and training using PyCaret
+3. User-friendly interface built with the Dash framework
+
+## Getting Started
+
+### Prerequisites
+
+1. Before you begin, ensure you have the following prerequisites:
+   - Python (version 3.6 or later) installed.
+   - An OpenWeatherMap API key. You can obtain one by signing up on the [OpenWeatherMap website](https://home.openweathermap.org/users/sign_up).
+   - An active internet connection.
+
+### Installation
+
+1. Clone the repository:
+   ```bash
+   git clone [repository_url]
+   cd Weather-Prediction-App
 Weather Prediction App
 
 Description
