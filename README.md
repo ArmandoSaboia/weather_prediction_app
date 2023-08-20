@@ -76,7 +76,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone [repository_url]
+git clone [https://github.com/ArmandoSaboia/weather_prediction_app.git]
 cd Weather-Prediction-App
 Install the required packages using pip:
 
