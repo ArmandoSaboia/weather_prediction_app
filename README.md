@@ -1,1 +1,5 @@
-# weather_prediction_app
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]()
+![MIT LICENSE](https://badgen.net//badge/license/MIT/green) ![MAINTAINED BADGE](https://img.shields.io/badge/Maintained%3F-yes-green.svg) 
+![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/ArmandoSaboia/weather_prediction_app)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/ArmandoSaboia/weather_prediction_app)
+![GitHub contributors](https://img.shields.io/github/contributors/ArmandoSaboia/weather_prediction_app)
