@@ -42,7 +42,7 @@ The Weather Prediction App is a user-friendly application that predicts the temp
 
 1. Clone the repository:
    ```bash
-   git clone [repository_url]
+   git clone https://github.com/ArmandoSaboia/weather_prediction_app.git
    cd Weather-Prediction-App
 Weather Prediction App
 
