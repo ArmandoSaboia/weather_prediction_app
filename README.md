@@ -10,8 +10,7 @@
 
 ## Description
 
-The Weather Prediction App is a user-friendly application that predicts the temperature for the next day based on historical weather data. The app integrates the PyCaret library for automated machine learning and uses the Dash framework to provide an interactive user interface. This README provides details on setting up and running the app.
-
+The Weather Prediction App is a user-friendly application that predicts the temperature for the next day based on historical weather data fetched from the OpenWeatherMap API. The app integrates the PyCaret library for automated machine learning and uses the Dash framework to provide an interactive user interface.
 ## Table of Contents
 
 - [Features](#features)
